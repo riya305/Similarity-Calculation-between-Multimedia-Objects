@@ -1,0 +1,172 @@
+
+### TASK 1 ###
+
+39052554@N00 TF 5
+********************L2 distance*****************
+
+{'ID': '9688281@N07', 'Score': 39.68626966596886, 'Terms': ['bok', 'garden', 'tower']}
+{'ID': '93283041@N00', 'Score': 40.24922359499622, 'Terms': ['2', '3', '4']}
+{'ID': '83006240@N00', 'Score': 42.60281680828159, 'Terms': ['01', '02', '03']}
+{'ID': '8306673@N02', 'Score': 45.0, 'Terms': ['boktowergarden', 'florida', 'bok']}
+{'ID': '81378932@N00', 'Score': 50.12983143797713, 'Terms': ['boktower', 'door', 'entrance']}
+
+56087830@N00 DF 8
+
+********************L2 distance*****************
+
+{'ID': '61577908@N00', 'Score': 226.73993913732974, 'Terms': ['2008', 'appeared', 'belong']}
+{'ID': '13597419@N00', 'Score': 228.5169577952586, 'Terms': ['2008', 'berlin', 'berlincathedral']}
+{'ID': '93858545@N00', 'Score': 239.6747796494241, 'Terms': ['bok', 'florida', 'garden']}
+{'ID': '27749836@N02', 'Score': 240.72390824344805, 'Terms': ['art', 'castle', 'ceiling']}
+{'ID': '25367139@N00', 'Score': 245.30389316111555, 'Terms': ['bell', 'cathedral', 'cologne']}
+{'ID': '57217704@N00', 'Score': 246.79140989912918, 'Terms': ['ala', 'bell', 'belltower']}
+{'ID': '90384027@N00', 'Score': 247.69941461376126, 'Terms': ['12', '2012', '2013']}
+{'ID': '54037354@N00', 'Score': 249.16460422780762, 'Terms': ['2003', '26', 'albert']}
+
+
+56087830@N00 TF-IDF 5
+
+********************L2 distance*****************
+
+{'ID': '9688281@N07', 'Score': 7.357756367506091, 'Terms': ['bok', 'garden', 'tower']}
+{'ID': '46814076@N00', 'Score': 7.371385141818746, 'Terms': ['castle', 'montezuma', 'monument']}
+{'ID': '78428880@N00', 'Score': 7.374166140655799, 'Terms': ['2008', 'berlin', 'cathedral']}
+{'ID': '41622091@N00', 'Score': 7.392122612005818, 'Terms': ['castle', 'hearst', 'hearstcastle']}
+{'ID': '63712423@N00', 'Score': 7.4121504107821075, 'Terms': ['2009', 'berlin', 'brandenburg']}
+
+### TASK 2 ###
+
+4459178306 TF 10
+
+********************L2 distance*****************
+
+{'ID': '4459177806', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4459175892', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4458397675', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4458397751', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4459176836', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4459180662', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4458401155', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4459177390', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4458401195', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+{'ID': '4459176664', 'Score': 0.0, 'Terms': ['16thcentury', 'agra', 'akbar']}
+
+288051306 DF 5
+
+********************L2 distance*****************
+
+{'ID': '135114844', 'Score': 705.4176068117381, 'Terms': ['1463', '1827', '395']}
+{'ID': '135116270', 'Score': 1476.3939176249678, 'Terms': ['acropoli', 'ancientgreece', 'aptero']}
+{'ID': '2202470452', 'Score': 1503.4440461819654, 'Terms': ['1889', '6', 'area']}
+{'ID': '2201690867', 'Score': 1520.1200610478109, 'Terms': ['aztec', 'city', 'href']}
+{'ID': '2202467548', 'Score': 1546.3540991635778, 'Terms': ['2', 'ad', 'area']}
+
+288051306 TF-IDF 5
+********************L2 distance*****************
+
+{'ID': '9069976672', 'Score': 5.343603606556097, 'Terms': ['greece', 'acropoli', 'athen']}
+{'ID': '5251535876', 'Score': 5.343676127857121, 'Terms': ['acropoli', 'erechtheion', 'greece']}
+{'ID': '3298563892', 'Score': 5.346196105953587, 'Terms': ['architecture', 'cathedral', 'chartre']}
+{'ID': '7545557650', 'Score': 5.346220096406835, 'Terms': ['cathedral', 'chartre', 'france']}
+{'ID': '2951965474', 'Score': 5.346388196181314, 'Terms': ['acropoli', 'garden', 'greece']}
+
+### TASK 3 ###
+
+27 TF 5
+********************L2 distance*****************
+
+{'ID': 'bok tower gardens', 'Score': 1145.998254797973, 'Terms': ['01', '02', '03']}
+{'ID': 'la madeleine', 'Score': 1173.8083318838728, 'Terms': ['01', '02', '03']}
+{'ID': 'castillo de san marcos', 'Score': 1204.3263677259583, 'Terms': ['01', '02', '03']}
+{'ID': 'altes museum', 'Score': 1212.2347132465725, 'Terms': ['10', '100', '11']}
+{'ID': 'casa batllo', 'Score': 1236.927241190847, 'Terms': ['01', '02', '04']}
+
+6 DF 5
+
+********************L2 distance*****************
+
+{'ID': 'altes museum', 'Score': 201.76967066434935, 'Terms': ['1', '1997', '2']}
+{'ID': 'ara pacis', 'Score': 214.0116819241417, 'Terms': ['1', '15', '2']}
+{'ID': 'casa batllo', 'Score': 216.0092590608097, 'Terms': ['02', '1', '15']}
+{'ID': 'hearst castle', 'Score': 216.30765127475266, 'Terms': ['1', '2', '27']}
+{'ID': 'bok tower gardens', 'Score': 221.74309459372122, 'Terms': ['02', '1920', '2']}
+
+6 TF-IDF 7
+
+********************L2 distance*****************
+
+{'ID': 'brandenburg gate', 'Score': 342.3050374855777, 'Terms': ['1944', '6', 'antike']}
+{'ID': 'altes museum', 'Score': 342.69792410983007, 'Terms': ['6', 'antikensammlung', 'appelé']}
+{'ID': 'berlin cathedral', 'Score': 352.64255302231965, 'Terms': ['18th', '1944', '227']}
+{'ID': 'albert memorial', 'Score': 457.7359478239435, 'Terms': ['02', '1500', '75']}
+{'ID': 'bok tower gardens', 'Score': 461.8845012023124, 'Terms': ['02', '2004', '2011']}
+{'ID': 'castillo de san marcos', 'Score': 476.94475540486604, 'Terms': ['1', '1500', '18th']}
+{'ID': 'big ben', 'Score': 479.6968629785864, 'Terms': ['1845', '1900', 'check']}
+
+
+### TASK 4 ###
+
+10 CN3x3 7
+
+********************L2 distance*****************
+
+{'ID': 'montezuma castle', 'Score': 0.36221951611927433, 'Images': [{'imagePairs': '2976189 4438568385', 'similarityScore': 1.074256811027895}, {'imagePairs': '6044975521 4438568385', 'similarityScore': 1.4651140779333547}, {'imagePairs': '6494673379 7381767396', 'similarityScore': 1.5680225767936615}]}
+{'ID': 'altes museum', 'Score': 0.4174938282870813, 'Images': [{'imagePairs': '2976189 11367687715', 'similarityScore': 0.593442309779659}, {'imagePairs': '2976189 2313001011', 'similarityScore': 0.9504578313253009}, {'imagePairs': '2976220 8717206597', 'similarityScore': 1.057087159448605}]}
+{'ID': 'casa batllo', 'Score': 0.4250693116871158, 'Images': [{'imagePairs': '2976189 4264025324', 'similarityScore': 0.6115495451192524}, {'imagePairs': '6044975521 4264025324', 'similarityScore': 1.1141529382837472}, {'imagePairs': '2976189 3030571284', 'similarityScore': 1.2284676001302506}]}
+{'ID': 'aztec ruins', 'Score': 0.4497400026212568, 'Images': [{'imagePairs': '2976189 4854719231', 'similarityScore': 1.1246265060240959}, {'imagePairs': '2976199 3238907655', 'similarityScore': 1.5933493975903612}, {'imagePairs': '6044975521 4854719231', 'similarityScore': 1.649542168674698}]}
+{'ID': 'casa rosada', 'Score': 0.547814155039128, 'Images': [{'imagePairs': '2976189 12394813545', 'similarityScore': 1.5070634972321721}, {'imagePairs': '2976199 12394813545', 'similarityScore': 1.552767610984479}, {'imagePairs': '6044975521 12394813545', 'similarityScore': 1.7057722783023992}]}
+{'ID': 'neues museum', 'Score': 0.6013091790855036, 'Images': [{'imagePairs': '2976189 4166168979', 'similarityScore': 0.5058313253012046}, {'imagePairs': '2976189 4026692112', 'similarityScore': 0.6862824270053185}, {'imagePairs': '2976189 4025936643', 'similarityScore': 0.9162140453706719}]}
+{'ID': 'colosseum', 'Score': 0.6039640166431516, 'Images': [{'imagePairs': '2976220 6158543528', 'similarityScore': 0.79539984939759}, {'imagePairs': '1807316072 6158543528', 'similarityScore': 1.4117658132530126}, {'imagePairs': '2976220 5128345548', 'similarityScore': 2.1698313253012063}]}
+
+18 GLRLM 5
+
+********************L2 distance*****************
+
+{'ID': 'casa rosada', 'Score': 3502.7230216928147, 'Images': [{'imagePairs': '4277641766 4988734979', 'similarityScore': 3215.5418437880576}, {'imagePairs': '3886492202 5670289852', 'similarityScore': 4164.250580451118}, {'imagePairs': '5297649933 7201355302', 'similarityScore': 4765.568265808242}]}
+{'ID': 'albert memorial', 'Score': 4383.757103421516, 'Images': [{'imagePairs': '3161262849 3825983374', 'similarityScore': 3292.4406501204594}, {'imagePairs': '2949717004 6336162044', 'similarityScore': 3424.221839147932}, {'imagePairs': '3886471948 4680810380', 'similarityScore': 3736.5117370131493}]}
+{'ID': 'casa batllo', 'Score': 4504.10396770739, 'Images': [{'imagePairs': '9529796512 6492329481', 'similarityScore': 4602.63733485144}, {'imagePairs': '4016840355 4262615328', 'similarityScore': 5072.208885061615}, {'imagePairs': '275686244 4263278691', 'similarityScore': 5119.608403048011}]}
+{'ID': 'acropolis athens', 'Score': 5030.842527300499, 'Images': [{'imagePairs': '350308932 8492110865', 'similarityScore': 3910.039416455673}, {'imagePairs': '4012521236 512080179', 'similarityScore': 3934.678176597754}, {'imagePairs': '3759257079 8877218909', 'similarityScore': 4088.1585061762944}]}
+{'ID': 'civic center san francisco', 'Score': 5249.951172582848, 'Images': [{'imagePairs': '8326526816 1850556281', 'similarityScore': 3773.8453351506164}, {'imagePairs': '8933609163 5138871926', 'similarityScore': 3788.395514155878}, {'imagePairs': '4472159392 2998910157', 'similarityScore': 3978.411428950571}]}
+
+30 LBP3x3 5
+
+********************L2 distance*****************
+
+{'ID': 'la madeleine', 'Score': 0.004534795205516201, 'Images': [{'imagePairs': '7698222 2463787037', 'similarityScore': 0.07731231840796021}, {'imagePairs': '5129784432 6459899005', 'similarityScore': 0.0810256190476191}, {'imagePairs': '5178864052 6459899005', 'similarityScore': 0.08143086632243254}]}
+{'ID': 'angkor wat', 'Score': 0.005253612448344377, 'Images': [{'imagePairs': '7698257 11933848736', 'similarityScore': 0.07713235928143714}, {'imagePairs': '5129784432 4889216723', 'similarityScore': 0.07928224899598393}, {'imagePairs': '5129784432 3435674982', 'similarityScore': 0.08096518918918923}]}
+{'ID': 'hearst castle', 'Score': 0.005616527439462277, 'Images': [{'imagePairs': '5129784432 290354671', 'similarityScore': 0.07730133333333332}, {'imagePairs': '2363348833 290354671', 'similarityScore': 0.07835733333333329}, {'imagePairs': '5178864052 290354671', 'similarityScore': 0.08386509236947787}]}
+{'ID': 'agra fort', 'Score': 0.006259391526758882, 'Images': [{'imagePairs': '5128345548 5715411349', 'similarityScore': 0.06923733333333337}, {'imagePairs': '5129784432 5715411349', 'similarityScore': 0.08057599999999998}, {'imagePairs': '72866324 5715411349', 'similarityScore': 0.08401066666666664}]}
+{'ID': 'acropolis athens', 'Score': 0.006505067566942312, 'Images': [{'imagePairs': '72866324 3965822399', 'similarityScore': 0.06765866666666671}, {'imagePairs': '5129784432 3965822399', 'similarityScore': 0.06794666666666667}, {'imagePairs': '72865178 3965822399', 'similarityScore': 0.07006933333333336}]}
+
+
+### TASK 5 ###
+
+4 5
+********************L1 distance*****************
+
+{'Location Name': 'agra fort', 'Score': 0.0028283383115808025, 'Model': [{'Model': 'CM', 'Contribution': 1.5501016316225387}, {'Model': 'CM3x3', 'Contribution': 3.1002032632450773}, {'Model': 'CN', 'Contribution': 4.650304894867614}, {'Model': 'CN3x3', 'Contribution': 6.200406526490153}, {'Model': 'CSD', 'Contribution': 7.750508158112692}, {'Model': 'GLRLM', 'Contribution': 9.300609789735228}, {'Model': 'GLRLM3x3', 'Contribution': 10.850711421357776}, {'Model': 'HOG', 'Contribution': 12.400813052980315}, {'Model': 'LBP', 'Contribution': 13.950914684602859}, {'Model': 'LBP3x3', 'Contribution': 15.501016316225392}]}
+
+
+{'Location Name': 'colosseum', 'Score': 0.0033636528381348896, 'Model': [{'Model': 'CM', 'Contribution': 1.5348864703024092}, {'Model': 'CM3x3', 'Contribution': 3.069772940604819}, {'Model': 'CN', 'Contribution': 4.604659410907226}, {'Model': 'CN3x3', 'Contribution': 6.139545881209636}, {'Model': 'CSD', 'Contribution': 7.674432351512046}, {'Model': 'GLRLM', 'Contribution': 9.209318821814453}, {'Model': 'GLRLM3x3', 'Contribution': 10.74420529211687}, {'Model': 'HOG', 'Contribution': 12.27909176241928}, {'Model': 'LBP', 'Contribution': 13.813978232721695}, {'Model': 'LBP3x3', 'Contribution': 15.3488647030241}]}
+
+
+{'Location Name': 'cabrillo', 'Score': 0.004627579797990333, 'Model': [{'Model': 'CM', 'Contribution': 1.5318173421665264}, {'Model': 'CM3x3', 'Contribution': 3.0636346843330533}, {'Model': 'CN', 'Contribution': 4.5954520264995775}, {'Model': 'CN3x3', 'Contribution': 6.127269368666104}, {'Model': 'CSD', 'Contribution': 7.659086710832631}, {'Model': 'GLRLM', 'Contribution': 9.190904052999155}, {'Model': 'GLRLM3x3', 'Contribution': 10.72272139516569}, {'Model': 'HOG', 'Contribution': 12.254538737332217}, {'Model': 'LBP', 'Contribution': 13.78635607949875}, {'Model': 'LBP3x3', 'Contribution': 15.318173421665271}]}
+
+
+{'Location Name': 'big ben', 'Score': 0.005976682779479825, 'Model': [{'Model': 'CM', 'Contribution': 1.5579541124001064}, {'Model': 'CM3x3', 'Contribution': 3.1159082248002132}, {'Model': 'CN', 'Contribution': 4.673862337200318}, {'Model': 'CN3x3', 'Contribution': 6.231816449600424}, {'Model': 'CSD', 'Contribution': 7.789770562000531}, {'Model': 'GLRLM', 'Contribution': 9.347724674400636}, {'Model': 'GLRLM3x3', 'Contribution': 10.905678786800749}, {'Model': 'HOG', 'Contribution': 12.463632899200856}, {'Model': 'LBP', 'Contribution': 14.02158701160097}, {'Model': 'LBP3x3', 'Contribution': 15.579541124001071}]}
+
+
+{'Location Name': 'albert memorial', 'Score': 0.02092233809280908, 'Model': [{'Model': 'CM', 'Contribution': 1.4933211369994261}, {'Model': 'CM3x3', 'Contribution': 2.9866422739988527}, {'Model': 'CN', 'Contribution': 4.479963410998277}, {'Model': 'CN3x3', 'Contribution': 5.973284547997704}, {'Model': 'CSD', 'Contribution': 7.4666056849971305}, {'Model': 'GLRLM', 'Contribution': 8.959926821996554}, {'Model': 'GLRLM3x3', 'Contribution': 10.453247958995988}, {'Model': 'HOG', 'Contribution': 11.946569095995415}, {'Model': 'LBP', 'Contribution': 13.439890232994847}, {'Model': 'LBP3x3', 'Contribution': 14.933211369994268}]}
+
+
+
+
+
+
+
+
+
+
+
+
+

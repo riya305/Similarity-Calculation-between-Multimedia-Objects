@@ -1,0 +1,17 @@
+********************L1 distance*****************
+
+{'Location Name': 'agra fort', 'Score': 0.0028283383115808025, 'Model': [{'Model': 'CM', 'Contribution': 1.5501016316225387}, {'Model': 'CM3x3', 'Contribution': 3.1002032632450773}, {'Model': 'CN', 'Contribution': 4.650304894867614}, {'Model': 'CN3x3', 'Contribution': 6.200406526490153}, {'Model': 'CSD', 'Contribution': 7.750508158112692}, {'Model': 'GLRLM', 'Contribution': 9.300609789735228}, {'Model': 'GLRLM3x3', 'Contribution': 10.850711421357776}, {'Model': 'HOG', 'Contribution': 12.400813052980315}, {'Model': 'LBP', 'Contribution': 13.950914684602859}, {'Model': 'LBP3x3', 'Contribution': 15.501016316225392}]}
+
+
+{'Location Name': 'colosseum', 'Score': 0.0033636528381348896, 'Model': [{'Model': 'CM', 'Contribution': 1.5348864703024092}, {'Model': 'CM3x3', 'Contribution': 3.069772940604819}, {'Model': 'CN', 'Contribution': 4.604659410907226}, {'Model': 'CN3x3', 'Contribution': 6.139545881209636}, {'Model': 'CSD', 'Contribution': 7.674432351512046}, {'Model': 'GLRLM', 'Contribution': 9.209318821814453}, {'Model': 'GLRLM3x3', 'Contribution': 10.74420529211687}, {'Model': 'HOG', 'Contribution': 12.27909176241928}, {'Model': 'LBP', 'Contribution': 13.813978232721695}, {'Model': 'LBP3x3', 'Contribution': 15.3488647030241}]}
+
+
+{'Location Name': 'cabrillo', 'Score': 0.004627579797990333, 'Model': [{'Model': 'CM', 'Contribution': 1.5318173421665264}, {'Model': 'CM3x3', 'Contribution': 3.0636346843330533}, {'Model': 'CN', 'Contribution': 4.5954520264995775}, {'Model': 'CN3x3', 'Contribution': 6.127269368666104}, {'Model': 'CSD', 'Contribution': 7.659086710832631}, {'Model': 'GLRLM', 'Contribution': 9.190904052999155}, {'Model': 'GLRLM3x3', 'Contribution': 10.72272139516569}, {'Model': 'HOG', 'Contribution': 12.254538737332217}, {'Model': 'LBP', 'Contribution': 13.78635607949875}, {'Model': 'LBP3x3', 'Contribution': 15.318173421665271}]}
+
+
+{'Location Name': 'big ben', 'Score': 0.005976682779479825, 'Model': [{'Model': 'CM', 'Contribution': 1.5579541124001064}, {'Model': 'CM3x3', 'Contribution': 3.1159082248002132}, {'Model': 'CN', 'Contribution': 4.673862337200318}, {'Model': 'CN3x3', 'Contribution': 6.231816449600424}, {'Model': 'CSD', 'Contribution': 7.789770562000531}, {'Model': 'GLRLM', 'Contribution': 9.347724674400636}, {'Model': 'GLRLM3x3', 'Contribution': 10.905678786800749}, {'Model': 'HOG', 'Contribution': 12.463632899200856}, {'Model': 'LBP', 'Contribution': 14.02158701160097}, {'Model': 'LBP3x3', 'Contribution': 15.579541124001071}]}
+
+
+{'Location Name': 'albert memorial', 'Score': 0.02092233809280908, 'Model': [{'Model': 'CM', 'Contribution': 1.4933211369994261}, {'Model': 'CM3x3', 'Contribution': 2.9866422739988527}, {'Model': 'CN', 'Contribution': 4.479963410998277}, {'Model': 'CN3x3', 'Contribution': 5.973284547997704}, {'Model': 'CSD', 'Contribution': 7.4666056849971305}, {'Model': 'GLRLM', 'Contribution': 8.959926821996554}, {'Model': 'GLRLM3x3', 'Contribution': 10.453247958995988}, {'Model': 'HOG', 'Contribution': 11.946569095995415}, {'Model': 'LBP', 'Contribution': 13.439890232994847}, {'Model': 'LBP3x3', 'Contribution': 14.933211369994268}]}
+
+
