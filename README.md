@@ -1,0 +1,4 @@
+# Similarity-Calculation-between-Multimedia-Objects
+The world is full of patterns and we can find some meaning out of it is a big achievement in itself. This project aims at getting similarity between the users, images and locations with the help of textual descriptors. Also, the 
+project is about getting the similar images on the basis of given locations by the help of their visual descriptors.
+This project is about getting the similarity between the users, images and locations on the basis of textual descriptors. There are basically five tasks. For the first three tasks, for the given textual descriptors we have to find similarity between users (task 1), images(task 2), and locations(task 3). The tasks 4 and 5 are basically based on finding the similarity between locations for the given image vectors on the basis of image visual descriptors.
